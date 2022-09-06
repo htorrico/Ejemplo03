@@ -11,6 +11,7 @@ namespace Ejemplo03
             InitializeComponent();
 
             //comentario
+            //comentario2
             MainPage = new StackLayoutCode();
         }
 
